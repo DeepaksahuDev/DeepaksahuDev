@@ -20,7 +20,3 @@
 <a href="https://www.facebook.com/share/TbSKud1HtFU93v2E/?mibextid=qi2Omg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/TbSKud1HtFU93v2E/?mibextid=qi2Omg" height="30" width="40" /></a>
 </p>
 <br>
-![Profile Views](https://komarev.com/ghpvc/?username=your-username)
-![Followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)
-![Stars](https://img.shields.io/github/stars/your-username?label=Stars)
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
