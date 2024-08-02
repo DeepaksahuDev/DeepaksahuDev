@@ -7,5 +7,7 @@
 <a href="https://www.linkedin.com/in/deepak-sahu-973979192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deepak-sahu-973979192" height="30" width="40" /></a>
   
 <a href="https://instagram.com/deepak_sahu7566" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://https://www.instagram.com/deepak_sahu7566/" height="30" width="40" /></a>
+
+<a href="https://x.com/Deepaksahu_7566" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/Deepaksahu_7566" height="30" width="40" /></a>
 </p>
 <br>
