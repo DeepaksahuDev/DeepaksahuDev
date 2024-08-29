@@ -18,6 +18,9 @@
 <a href="https://x.com/Deepaksahu_7566" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/Deepaksahu_7566" height="30" width="40" /></a>
 <a href="https://youtube.com/@carryondeepak4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@carryondeepak4" height="30" width="40" /></a>
 <a href="https://www.facebook.com/share/TbSKud1HtFU93v2E/?mibextid=qi2Omg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/TbSKud1HtFU93v2E/?mibextid=qi2Omg" height="30" width="40" /></a>
- <a href="https://portfolio-five-pearl-29.vercel.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="https://portfolio-five-pearl-29.vercel.app/" height="30" width="40" /></a>
+ <a href="https://portfolio-five-pearl-29.vercel.app" target="_blank">
+  <img align="center" src="https://path-to-your-svg-icon.svg" alt="Portfolio" height="30" width="40" />
+</a>
+
 </p>
 <br>
